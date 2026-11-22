@@ -1,6 +1,8 @@
 # THE WORLD TODAY — Saturday, 21 November 2026
 
-[![news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/vahad98/news-image-20261121-v4/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/vahad98/news-image-20261121-v4/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 A dense, single-image front page for the make.fun `news-image-20261121`
 competition: **39 verified stories from Saturday, 21 November 2026**, grouped
