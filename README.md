@@ -1,8 +1,6 @@
 # THE WORLD TODAY — Saturday, 21 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261121-blue)](https://make.fun)
-[![entry](https://img.shields.io/badge/entry-v4-green)](https://make.fun)
-[![date](https://img.shields.io/badge/date-2026--11--21-orange)](https://make.fun)
+[![news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121)
 
 A dense, single-image front page for the make.fun `news-image-20261121`
 competition: **39 verified stories from Saturday, 21 November 2026**, grouped
